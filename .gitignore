@@ -1,0 +1,34 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# PyCharm project files
+.idea/
+*.iml
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: macOS or Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore all audio files folder
+audio_samples/
+audio_samples1/
+
+audio_samples2/
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.aac
